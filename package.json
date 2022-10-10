@@ -1,0 +1,25 @@
+{
+  "name": "pg6301_communication_backend_frontend",
+  "version": "1.0.0",
+  "description": "* [ ] Create frontend and backend\r   * [ ] Root project with concurrently, prettier and husky\r   * [ ] Client project with parcel, react and react-dom, router\r   * [ ] Server project with nodemon, express, body-parser, cookie-parser, dotenv\r * [ ] GET endpoint in Express\r * [ ] Husky + Prettier\r * [ ] Deploy on Heroku\r   * [ ] npm build => npm install --include=dev && server npm install\r   * [ ] npm start => node server.js\r * [ ] GET /login from front page\r   * [ ] Fetch data from server\r   * [ ] Loading time\r   * [ ] Handle error\r * [ ] POST /api/login from login form\r   * [ ] Loading time\r   * [ ] Error handling\r * [ ] Refactor and polish fetch and error handling\r   * [ ] Custom React hook: 'useLoader'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kristiania-EDU/pg6301_communication_backend_frontend.git"
+  },
+  "keywords": [],
+  "author": "Sebastian Nordby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kristiania-EDU/pg6301_communication_backend_frontend/issues"
+  },
+  "homepage": "https://github.com/Kristiania-EDU/pg6301_communication_backend_frontend#readme",
+  "devDependencies": {
+    "concurrently": "^7.4.0",
+    "husky": "^8.0.1",
+    "prettier": "^2.7.1"
+  }
+}
