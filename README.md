@@ -1,6 +1,6 @@
 # Communication between frontend and backend
 
-* [ ] Create frontend and backend
+* [X] Create frontend and backend
   * [ ] Root project with concurrently, prettier and husky
   * [ ] Client project with parcel, react and react-dom, router
   * [ ] Server project with nodemon, express, body-parser, cookie-parser, dotenv
